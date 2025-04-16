@@ -23,7 +23,6 @@ However, installing Julia on your computer is recommended if you are interested 
 
 To participate in this workshop, we recommend that you follow these steps to get started with a Julia programming environment:
 
-0. **Clone this GitHub repository.** This contains the Jupyter notebooks that we will use for the tutorials, the exercise solutions, and the installation script.
 1. **Install Julia.** We recommend to use the [`juliaup`](https://github.com/JuliaLang/juliaup) command line tool for installing and managing Julia, but you can use whatever means you want. After installing Julia, you can launch it, which will launch the REPL (read-evaluate-print-loop) environment where you can immediately start coding and running Julia in.
 2. **Install VSCode.** We recommend [VSCode](https://code.visualstudio.com/) as the environment to code and run Julia in, because it has an integrated text editor and a REPL console, it can run Jupyter notebooks out of the box, and has high quality debugging tooling.
 3. **Install the Julia for VSCode extension.** To do this, open VSCode, go to Extensions, search for `Julia` and install. Once this is done, you should be able to run Julia within VSCode without any further configuration. Examples of what is possible:
