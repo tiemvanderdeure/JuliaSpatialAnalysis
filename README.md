@@ -15,7 +15,7 @@ The programme will be as follows:
 | **BREAK FOR LUNCH** | 13:00-14:00 |
 | Optional: more advanced Julia + work on your own problems | 14:00-17:00 |
 
-I will upload the notebooks in this workshop to Google Colab, so you can run them in you browser without installing Julia.
+The notebooks in this repo are also available on [Google Colab](https://drive.google.com/drive/folders/1foipNWCLc8p-O3FxTpK3LJ6Yn8QrKYqe?usp=sharing), so you can run them in you browser without having to install Julia.
 
 However, installing Julia on your computer is recommended if you are interested in continuing to use it.
 
